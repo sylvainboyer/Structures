@@ -1,0 +1,61 @@
+= Le français et les genres
+
+== Les fonctions et métiers au féminin
+
+=== Avant la création de l'académie française (1635)
+
+Dans le dictionnaire Godefroy (http://www.micmap.org/dicfro/search/dictionnaire-godefroy[dictionnaire de l'ancienne langue française et de tous ses dialectes du IX^e^ au XV^e^ siècle]) on trouve toutes sortes de métiers féminins qui ont disparu des dictionnaires suivants.
+
+On y voit par exemple :
+
+....
+Medecine, s. f., femme exerçant la profession de médecin.
+....
+
+....
+Escivaine, s. f., feminin d'escrivain.
+....
+
+....
+Philosophesse, s. f., femme philosophe.
+....
+
+=== Après la création de l'académie française
+
+Au cours du processus de codification de l'orthographe initié par l'académie, un certain nombre de mots changent de genre de sens.
+
+****
+*Deviennent masculin :* 
+art, évéché, duché, comté, honneur…
+****
+
+****
+*Deviennent féminin :* 
+affaire, équivoque, image, insulte, ombre, erreur…
+****
+
+== L'accord en genre
+
+=== L'accord des adjectifs
+
+Historiquement, on utilise en français la règle de proximité. Cette règle se retrouve dans la grec ancien et le latin.
+
+.On dit alors :
+....
+Les pommes et les abricots sont bons.
+
+Les abricots et les pommes sont bonnes.
+....
+
+En 1675, l'abbé Bouhours écrit : « lorsque les deux genres se rencontrent, il faut que le plus noble l'emporte. ». Et tout change. On applique alors la règle que nous avons tous et toutes apprise selon laquelle le masculin l'emporte sur le féminin.
+
+=== L'accord des pronoms
+
+Gilles Ménage rapporte une conversation avec Madame de Sévigné : « Madame de Sévigné s'informant sur ma santé, je lui dis: madame, je suis enrhumé. Je la suis aussi, me dit-elle. Il me semble, Madame, que selon les règles de notre langue, il faudrait dire: je le suis. Vous direz comme il vous plaira, ajouta-t-elle, mais pour moi, je croirais avoir de la barbe au menton si je disais autrement. »
+
+De même, Beaumarchais écrit dans les Noces de Figaro : « J'étais née, moi encore, pour être sage, et je la suis devenue […] » 
+
+== Pour aller plus loin
+
+Voici ce que dit l'http://www.academie-francaise.fr/la-langue-francaise/le-francais-aujourdhui[académie française].
+Et wikipedia, sur le https://fr.wikipedia.org/wiki/Genre_grammatical[genre] et sur la https://fr.wikipedia.org/wiki/F%C3%A9minisation_des_noms_de_m%C3%A9tiers_en_fran%C3%A7ais[féminisation des noms].
