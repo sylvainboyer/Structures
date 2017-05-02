@@ -44,7 +44,7 @@ Historiquement, on utilise en français la règle de proximité. Cette règle se
 ....
 Les pommes et les abricots sont bons.
 
-Les abricots et les pommes sont bonnes.
+Les abricots et les pommes sont bonnes. 
 ....
 
 En 1675, l'abbé Bouhours écrit : « lorsque les deux genres se rencontrent, il faut que le plus noble l'emporte. ». Et tout change. On applique alors la règle que nous avons tous et toutes apprise selon laquelle le masculin l'emporte sur le féminin.
